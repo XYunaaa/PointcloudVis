@@ -1,0 +1,3 @@
+
+python draw_pc.py 根据反射率，绘制点云 ，选用任一有mayavi的环境
+python draw_pc_colored.py 绘制着色点云 选用任一有open3d的环境

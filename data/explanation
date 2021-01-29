@@ -1,0 +1,6 @@
+数据来自KITTIdetection3d 的第N帧数据
+原始点云000045.bin 为全视角
+non_ground_000045.npy 为非地面的全视角点云
+non_ground_000045_fov.npy 为非地面的fov视角点云
+滤出地面的着色点云000045.npy 为fov视角的着色点云
+
